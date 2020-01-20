@@ -1,0 +1,16 @@
+<comments>
+    <comment>
+        <comment_id>1</comment_id>
+        <commented_date>2019-12-27 01:08:28</commented_date>
+        <content>here i comment
+            todaayyyy
+        </content>
+        <commenter_user_id>2</commenter_user_id>
+    </comment>
+    <comment>
+        <comment_id>2</comment_id>
+        <commented_date>2019-12-27 01:08:46</commented_date>
+        <content>here i really dooo</content>
+        <commenter_user_id>2</commenter_user_id>
+    </comment>
+</comments>

@@ -1,0 +1,14 @@
+<roles>
+    <role>
+        <id>1</id>
+        <role>USER</role>
+    </role>
+    <role>
+        <id>2</id>
+        <role>BLOGGER</role>
+    </role>
+    <role>
+        <id>3</id>
+        <role>ADMIN</role>
+    </role>
+</roles>

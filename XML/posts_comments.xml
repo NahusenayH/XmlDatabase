@@ -1,0 +1,10 @@
+<posts_comments>
+    <post_comment>
+        <post_post_id>3</post_post_id>
+        <comments_comment_id>1</comments_comment_id>
+    </post_comment>
+    <post_comment>
+        <post_post_id>3</post_post_id>
+        <comments_comment_id>2</comments_comment_id>
+    </post_comment>
+</posts_comments>
